@@ -17,3 +17,4 @@ Utilidades del programa:
 - **Automatización**: Puedes utilizar la interfaz gráfica para realizar esta tarea de manera más amigable y sencilla en lugar de realizarla manualmente.
 
 En resumen, este programa brinda una forma sencilla de unir y eliminar duplicados en archivos de texto que contienen palabras, lo que puede ser útil en diversas situaciones, como la consolidación de vocabularios o listas de palabras.
+![Screenshot_2023-10-18_18_49_17](https://github.com/f3nixuy/diccionario/assets/50671074/acffd570-aab1-4fd2-aa0d-a40b8183ee0a)
