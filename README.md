@@ -1,5 +1,6 @@
 
 ![WhatsApp Image 2023-10-30 at 18 58 10](https://github.com/f3nixuy/diccionario/assets/50671074/10e8f8d2-498b-412a-9bc3-6ecb73cae0df)
+
 Este programa en Python utiliza la biblioteca tkinter para crear una interfaz gráfica de usuario (GUI) con botones y etiquetas para realizar varias tareas relacionadas con archivos, redes y medición de velocidad de Internet. Aquí se explica la funcionalidad de cada parte del programa:
  
 1. **Importación de módulos:**
