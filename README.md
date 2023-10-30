@@ -1,9 +1,8 @@
 Este programa en Python utiliza la biblioteca tkinter para crear una interfaz gráfica de usuario (GUI) con botones y etiquetas para realizar varias tareas relacionadas con archivos, redes y medición de velocidad de Internet. Aquí se explica la funcionalidad de cada parte del programa:
-
+![WhatsApp Image 2023-10-30 at 18 58 10](https://github.com/f3nixuy/diccionario/assets/50671074/10e8f8d2-498b-412a-9bc3-6ecb73cae0df)
+ 
 1. **Importación de módulos:**
-2. ![WhatsApp Image 2023-10-30 at 18 58 10](https://github.com/f3nixuy/diccionario/assets/50671074/10e8f8d2-498b-412a-9bc3-6ecb73cae0df)
-
-   - `import tkinter as tk`: Importa el módulo tkinter y lo renombra como 'tk' para su uso posterior.
+2.  - `import tkinter as tk`: Importa el módulo tkinter y lo renombra como 'tk' para su uso posterior.
    - `from tkinter import filedialog`: Importa la función `filedialog` de tkinter para abrir diálogos de selección de archivos.
    - `import subprocess`: Importa el módulo `subprocess` para ejecutar comandos del sistema.
    - `import speedtest`: Importa la biblioteca `speedtest` para medir la velocidad de Internet.
